@@ -1,0 +1,202 @@
+.body {
+    background-color: thistle;
+}
+.judul {
+    margin: 30px;
+    text-align: center;
+}
+.gallery{
+    color: rgba(151,96,96,1);
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 50px;
+    opacity: 1;
+}
+.art{
+    color: rgba(135,225,113,1);
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 50px;
+    opacity: 1;
+}
+.topnav {
+    color: rgba(0,0,0,1);
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+}
+
+.topnav a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+    
+.gambar-welcome {
+    width: 80%;
+    height: 700px;
+    background: url("../image/v5_15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 20px;
+    left: 170px;
+    overflow: hidden; 
+}
+.kotak-putih {
+    width: 800px;
+    height: 250px;
+    background: rgba(253,251,251,0.6899999976158142);
+    opacity: 1;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+    overflow: hidden;
+}
+.v6_21 {
+    width: 427px;
+    color: rgba(107,88,88,1);
+    position: absolute;
+    top: 30px;
+    left: 60px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 50px;
+    opacity: 1;
+    text-align: left;
+}
+.v6_16 {
+    width: 204px;
+    color: rgba(151,96,96,1);
+    position: relative;
+    top: 100px;
+    left: 130px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 70px;
+    opacity: 1;
+    text-align: left;
+}
+.v6_18 {
+    width: 104px;
+    color: rgba(135,225,113,1);
+    position: absolute;
+    top: 100px;
+    left: 490px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 70px;
+    opacity: 1;
+    text-align: left;
+}
+
+.paragraf {
+    text-align: center;
+    font-family: Roboto;
+    font-size: x-large;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.v114_7 {
+    width: 100%;
+    height: 200px;
+    background: pink;
+    opacity: 1;
+    position: static;
+    overflow: hidden;
+}
+
+.v6_28 {
+    width: 163px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1270px;
+    left: 81px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v6_29 {
+    width: 221px;
+    color: rgba(204,88,88,1);
+    position: absolute;
+    top: 1320px;
+    left: 81px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v6_27 {
+    width: 104px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1270px;
+    left: 467px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v6_30 {
+    width: 227px;
+    color: url("../images/v6_30.png");
+    position: absolute;
+    top: 1320px;
+    left: 467px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+
+.footer {
+    color: white;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 18px;
+    text-align: center;
+    background-color: grey;
+    position: static;
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
